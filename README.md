@@ -2,7 +2,7 @@
 - 👀 I’m interested in cloud technologies, iot and machine learning
 - 🌱 I’m currently learning cloud computing
 - 💞️ I’m looking to collaborate on Seattle 
-- 📫 How to reach me ...
+- 📫 How to reach me ... send email 
 
 <!---
 saulzeul/saulzeul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
